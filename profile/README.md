@@ -8,11 +8,9 @@
 
 <br>
 
-### micasa
+### [micasa](https://micasa.dev)
 
 **your house, in a terminal.**
-
-**[micasa.dev](https://micasa.dev)**
 
 <br>
 
