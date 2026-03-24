@@ -8,7 +8,7 @@
 
 <br>
 
-### [micasa](https://micasa.dev)
+### micasa
 
 **your house, in a terminal.**
 
@@ -34,6 +34,6 @@ brew install micasa && micasa demo
 
 <sub>
 
-[docs](https://micasa.dev/docs/)&ensp;&middot;&ensp;[blog](https://micasa.dev/blog/)&ensp;&middot;&ensp;[releases](https://github.com/micasa-dev/micasa/releases)
+[micasa.dev](https://micasa.dev)&ensp;&middot;&ensp;[docs](https://micasa.dev/docs/)&ensp;&middot;&ensp;[blog](https://micasa.dev/blog/)&ensp;&middot;&ensp;[releases](https://github.com/micasa-dev/micasa/releases)
 
 </sub>
