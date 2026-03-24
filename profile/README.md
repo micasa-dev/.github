@@ -8,7 +8,7 @@
 
 <br>
 
-### [micasa](https://micasa.dev)
+<a href="https://micasa.dev"><strong>micasa</strong></a>
 
 **your house, in a terminal.**
 
