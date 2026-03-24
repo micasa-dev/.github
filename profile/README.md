@@ -12,6 +12,8 @@
 
 **your house, in a terminal.**
 
+**[micasa.dev](https://micasa.dev)**
+
 <br>
 
 [![CI](https://github.com/micasa-dev/micasa/actions/workflows/ci.yml/badge.svg)](https://github.com/micasa-dev/micasa/actions/workflows/ci.yml)&ensp;[![Release](https://img.shields.io/github/v/release/micasa-dev/micasa?label=latest)](https://github.com/micasa-dev/micasa/releases/latest)&ensp;[![Go](https://img.shields.io/github/go-mod/go-version/micasa-dev/micasa)](https://go.dev)
@@ -34,6 +36,6 @@ brew install micasa && micasa demo
 
 <sub>
 
-[micasa.dev](https://micasa.dev)&ensp;&middot;&ensp;[docs](https://micasa.dev/docs/)&ensp;&middot;&ensp;[blog](https://micasa.dev/blog/)&ensp;&middot;&ensp;[releases](https://github.com/micasa-dev/micasa/releases)
+[docs](https://micasa.dev/docs/)&ensp;&middot;&ensp;[blog](https://micasa.dev/blog/)&ensp;&middot;&ensp;[releases](https://github.com/micasa-dev/micasa/releases)
 
 </sub>
